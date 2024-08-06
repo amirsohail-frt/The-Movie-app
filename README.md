@@ -112,7 +112,7 @@ npm run deploy
 
 ### Project Live link
 
-[React-Movix-TMBD-CLONE](https://react-movie-app-zeta-six.vercel.app/)
+[The-Movie-App-TMBD](https://the-movie-app-gilt.vercel.app/)
 
 ### Contact
 
